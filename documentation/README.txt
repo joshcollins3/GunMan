@@ -1,3 +1,6 @@
+How to run:
+    Execute the GunManLauncher file.
+
 Objective:
     Survive for as many rounds as possible. Receive weapons as you progress.
     
